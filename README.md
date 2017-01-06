@@ -1,2 +1,2 @@
 # RecyclerViewDemo
-Android recyclrview demo project
+Android recyclerview demo project
